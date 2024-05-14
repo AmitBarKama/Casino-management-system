@@ -19,5 +19,5 @@ Player Management: Admin users can add players, view player details, and sort pl
 Data Compression: Efficient data compression techniques are employed to optimize storage space.
 
 
-
+for the full information about the project please read the project's report.
 
