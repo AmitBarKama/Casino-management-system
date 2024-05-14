@@ -1,3 +1,5 @@
+Casino Management System
+
 Introduction
 
 Welcome to the Casino Management System repository! This project is an implementation of a casino system written in C language using the Visual Studio development environment. The system aims to provide users with a seamless gaming experience within a virtual casino environment, offering various games such as Blackjack, Roulette, and Lucky Wheel. Users can register, manage their finances, and enjoy a range of casino games.
@@ -47,3 +49,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 
 For any inquiries or support, please contact project maintainers.
+
+Feel free to customize this README.txt file with additional information specific to your project!
